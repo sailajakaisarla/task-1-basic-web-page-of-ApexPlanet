@@ -1,4 +1,3 @@
-# task-1-basic-web-page-of-ApexPlanet
 <!DOCTYPE html>
 <html lang="en">
 <head>
